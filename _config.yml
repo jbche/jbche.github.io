@@ -1,0 +1,9 @@
+title: "Jean-Baptiste Chéron"
+description: "DevOps Engineer / Software Engineer · Python · Cloud · CI/CD · Linux · HPC"
+
+theme: jekyll-theme-cayman
+
+show_downloads: false
+
+github:
+  is_project_page: false
