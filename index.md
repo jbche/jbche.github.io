@@ -12,7 +12,7 @@ layout: default
 ## 👋 About
 
 I build software and infrastructure for production environments.
-
+ 
 I work on **software development, automation and infrastructure**,
 with a focus on reliable and easy-to-maintain systems.
 
