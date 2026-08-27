@@ -26,11 +26,11 @@ I develop and maintain software used in production.
 
 My work includes:
 
-- 🐍 Python application development
-- ⚙️ Automation and tooling
-- 🧪 Automated testing
-- 🔌 APIs and service integration
-- 📦 Software packaging and deployment
+- Python application development
+- Automation and tooling
+- Automated testing
+- APIs and service integration
+- Software packaging and deployment
 
 ---
 
@@ -41,12 +41,12 @@ My work includes:
 I design and deploy infrastructure for applications.
 I focus on making deployments **reliable, repeatable and automated**.
 
-- ☁️ AWS
-- 🏗️ Terraform
-- 🐳 Docker
-- 🤖 Ansible
-- 🐧 Linux / Debian
-- 🔄 GitLab CI
+- AWS
+- Terraform
+- Docker
+- Ansible
+- Linux / Debian
+- GitLab CI
 
 ---
 
@@ -59,17 +59,17 @@ for scientific computing and AI workloads.
 
 ### Infrastructure
 
-- 🖥️ CPU and GPU nodes
-- ⚙️ Slurm workload manager
-- 🐧 Linux / Debian
-- 🤖 Ansible automation
+- CPU and GPU nodes
+- Slurm workload manager
+- Linux / Debian
+- Ansible automation
 
 ### Software environment
 
-- ⚡ CUDA
-- 📦 Environment Modules
-- 🧪 Scientific libraries and applications
-- 📦 Debian packages
+- CUDA
+- Environment Modules
+- Scientific libraries and applications
+- Debian packages
 
 The platform provides a reliable environment for deploying
 and managing scientific applications.
@@ -87,15 +87,15 @@ Linux, virtualization, networking and automation.
 
 ### ⚙️ Services
 
-- 📷 Immich
-- 🏠 Home Assistant — VM
-- 🌐 Traefik — LXC
-- 📊 Uptime Kuma — LXC
+- Immich
+- Home Assistant — VM
+- Traefik — LXC
+- Uptime Kuma — LXC
 
 ### 🌐 Networking
 
-- 🛡️ AdGuard Home — local DNS
-- 🔐 WireGuard — secure remote access
+- AdGuard Home — local DNS
+- WireGuard — secure remote access
 
 The home lab lets me experiment with technologies outside
 my day-to-day work and better understand how different
@@ -106,19 +106,19 @@ systems work together.
 ## 🧰 Technologies
 
 **Languages**  
-🐍 Python · Bash · SQL
+Python · Bash · SQL
 
 **Infrastructure**  
-🐧 Linux · Debian · Ansible · Terraform · Docker · Slurm
+Linux · Debian · Ansible · Terraform · Docker · Slurm
 
 **Cloud**  
-☁️ AWS
+AWS
 
 **CI/CD**  
-🔄 GitLab CI · GitHub Actions · Jenkins
+GitLab CI · GitHub Actions · Jenkins
 
 **Scientific Computing**  
-🖥️ HPC · CUDA · Environment Modules
+HPC · CUDA · Environment Modules
 
 ---
 
@@ -137,7 +137,7 @@ software and scientific computing.
 
 ## 🏃 Outside Work
 
-🏃 Running · 🥾 Hiking · 🌐 Web development · 🏠 Home automation · 🖥️ Self-hosting
+Running · Hiking · Web development · Home automation · Self-hosting
 
 ---
 
